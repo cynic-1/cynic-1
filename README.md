@@ -14,3 +14,7 @@ Here are some ideas to get you started: -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My 2021:
+
+![image](https://user-images.githubusercontent.com/68074066/147384714-141a37be-d3b5-411c-88c9-08657e7812c0.png)
