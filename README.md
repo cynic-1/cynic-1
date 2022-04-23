@@ -20,4 +20,9 @@ My 2021:
 ![image](https://user-images.githubusercontent.com/68074066/147384714-141a37be-d3b5-411c-88c9-08657e7812c0.png)
 
 Stats:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cynic-1&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+Language:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cynic-1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
