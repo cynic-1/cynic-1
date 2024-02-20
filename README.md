@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently studying on BUAA
-- 🌱 I’m currently learning web application
+- 🔭 I’m currently studying on PKU
+- 🌱 I’m currently learning Web3 Development
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
